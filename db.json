@@ -1,0 +1,850 @@
+{
+  "request_info": {
+    "success": true
+  },
+  "articles": [
+    {
+      "link": "https://www.ndtv.com/india-news/india-china-standoff-more-serious-than-2017-doklam-conflict-report-2236331",
+      "title": "PM Modi's Strategy On China After Meeting Ajit Doval, Armed Forces Chiefs",
+      "snippet": "India has moved additional troops along its northern border as it prepares for an extended conflict with neighbor China, after several rounds of talks failed to ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/7BBC16A3D9794B7185FCD5C555706DDE",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/7BBC16A3D9794B7185FCD5C555706DDE"
+      ],
+      "date_published": "2020-05-28T09:40:57.000Z",
+      "source": {
+        "id": "ndtv-news",
+        "domain": "www.ndtv.com",
+        "name": "NDTV",
+        "logo": "https://api.breakingapi.com/download/logos/ndtv-news.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-IN",
+          "en-AU",
+          "en-KE",
+          "en-MY",
+          "en-NG",
+          "en-PK",
+          "en-PH",
+          "en-ID",
+          "en-BW",
+          "en-ET",
+          "en-GH",
+          "en-NA",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-GB",
+          "en-ZW",
+          "en-NZ",
+          "en-IE",
+          "en-IL",
+          "en-SG"
+        ]
+      }
+    },
+    {
+      "link": "https://timesofindia.indiatimes.com/india/envoy-reaches-out-says-india-and-china-pose-no-threat-to-each-other/articleshow/76050730.cms",
+      "title": "Envoy reaches out, says India and China pose no threat to each other",
+      "snippet": "India News: Amid tensions along the Line of Actual Control (LAC) and some aggressive commentary in Chinese media, China's ambassador to India Sun ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/B091915CCCE646EE9844127450B3C019",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/B091915CCCE646EE9844127450B3C019"
+      ],
+      "date_published": "2020-05-28T06:56:08.000Z",
+      "source": {
+        "id": "times-of-india-timesofindia-indiatimes-com",
+        "domain": "timesofindia.indiatimes.com",
+        "link": "https://timesofindia.indiatimes.com",
+        "name": "Times of India",
+        "logo": "https://api.breakingapi.com/download/logos/times-of-india-timesofindia-indiatimes-com.jpg",
+        "locales": [
+          "en-US",
+          "en-GB",
+          "en-AU",
+          "en-IN",
+          "en-MY",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-CA",
+          "en-IE",
+          "en-UG",
+          "en-BW",
+          "en-GH",
+          "en-IL",
+          "en-LV",
+          "en-NA",
+          "en-NG",
+          "en-ZA",
+          "en-TZ",
+          "en-ET",
+          "en-KE",
+          "en-ZW",
+          "en-ID"
+        ],
+        "description": "The Times of India is an Indian English-language daily newspaper owned by The Times Group.\nIt is the third-largest newspaper in India by circulation and the second-largest selling English-language daily in the world according to Audit Bureau of Circulations."
+      }
+    },
+    {
+      "link": "https://www.news18.com/news/india/army-commanders-review-situation-in-ladakh-and-areas-along-lac-in-sikkim-uttarakhand-2640433.html",
+      "title": "Army Commanders Review Situation in Ladakh and Areas Along LAC in Sikkim, Uttarakhand",
+      "primary_author": "News18",
+      "authors": [
+        "News18"
+      ],
+      "snippet": "Top commanders of the Indian Army on Wednesday carried out a comprehensive review of the situation in eastern Ladakh where Indian and Chinese troops are ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/19F8721E98CB41E8B00EAE796B0714A6",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/19F8721E98CB41E8B00EAE796B0714A6"
+      ],
+      "date_published": "2020-05-27T16:33:31.000Z",
+      "source": {
+        "id": "news18",
+        "domain": "www.news18.com",
+        "name": "News18",
+        "logo": "https://api.breakingapi.com/download/logos/news18.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-IN",
+          "en-LV",
+          "en-PK",
+          "en-ZA",
+          "en-ID",
+          "en-AU",
+          "en-BW",
+          "en-ET",
+          "en-IE",
+          "en-IL",
+          "en-MY",
+          "en-NA",
+          "en-NZ",
+          "en-NG",
+          "en-PH",
+          "en-SG",
+          "en-TZ",
+          "en-GB",
+          "en-ZW",
+          "en-UG",
+          "en-GH",
+          "en-KE"
+        ],
+        "description": "CNN-News18 is an Indian English-language news television channel founded by Rajdeep Sardesai located in Noida, Uttar Pradesh. It is currently owned by Network 18. CNN provides international coverage for the channel, while Indian Broadcasting Network concentrates on Indian and local reports."
+      }
+    },
+    {
+      "link": "https://www.hindustantimes.com/editorials/india-is-right-to-be-firm-on-china/story-9HhKXJslh8D1wr3wXY4DeI.html",
+      "title": "India is right to be firm on China | HT Editorial",
+      "primary_author": "digitaleditors@hindustantimes.com ()",
+      "authors": [
+        "digitaleditors@hindustantimes.com ()"
+      ],
+      "snippet": "Tell Beijing its escalation will impact the overall relationship.",
+      "primary_image_link": "https://api.breakingapi.com/download/images/D10B32C4C6BF4AF6A662276625ACAC5C",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/D10B32C4C6BF4AF6A662276625ACAC5C"
+      ],
+      "date_published": "2020-05-27T13:20:00.000Z",
+      "source": {
+        "id": "hindustan-times-www-hindustantimes-com",
+        "domain": "www.hindustantimes.com",
+        "link": "https://www.hindustantimes.com",
+        "name": "Hindustan Times",
+        "logo": "https://api.breakingapi.com/download/logos/hindustan-times-www-hindustantimes-com.jpg",
+        "locales": [
+          "en-US",
+          "en-GB",
+          "en-AU",
+          "en-CA",
+          "en-IN",
+          "en-KE",
+          "en-PK",
+          "en-SG",
+          "en-GH",
+          "en-MY",
+          "en-BW",
+          "en-ET",
+          "en-LV",
+          "en-NA",
+          "en-NZ",
+          "en-TZ",
+          "en-ZW",
+          "en-ID",
+          "en-ZA",
+          "en-IE",
+          "en-NG",
+          "en-PH",
+          "en-IL",
+          "en-UG"
+        ],
+        "description": "Hindustan Times is an Indian English-language daily newspaper founded in 1924 with roots in the Indian independence movement of the period. Hindustan Times was inaugurated by Mahatma Gandhi and known for supporting the Congress party. The newspaper is owned by Congress Rajya Sabha M.P. Shobhana Bhartia."
+      }
+    },
+    {
+      "link": "https://www.livemint.com/opinion/online-views/a-red-line-that-beijing-shouldn-t-try-to-cross-11590594683436.html",
+      "title": "Opinion | A red line that Beijing shouldn't try to cross",
+      "primary_author": "Livemint",
+      "authors": [
+        "Livemint"
+      ],
+      "snippet": "In a world unsettled by the covid pandemic, it is clearly in the interests of both New Delhi and Beijing to avoid any confrontation along the 3,500-km-long Line of ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/9DE179797EC34471908AAC142EC09765",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/9DE179797EC34471908AAC142EC09765"
+      ],
+      "date_published": "2020-05-27T16:08:25.000Z",
+      "source": {
+        "id": "livemint",
+        "domain": "www.livemint.com",
+        "name": "Livemint",
+        "logo": "https://api.breakingapi.com/download/logos/livemint.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-IN",
+          "en-IL",
+          "en-KE",
+          "en-MY",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-NG",
+          "en-BW",
+          "en-ET",
+          "en-LV",
+          "en-NA",
+          "en-TZ",
+          "en-GH",
+          "en-IE",
+          "en-UG",
+          "en-GB",
+          "en-ZW",
+          "en-ZA",
+          "en-AU",
+          "en-ID",
+          "en-il"
+        ],
+        "description": "Mint is an Indian financial daily newspaper published by HT Media, a Delhi-based media group which is controlled by the KK Birla family and also publishes Hindustan Times. It mostly targets readers who are business executives and policy makers. It has been in circulation since 2007."
+      }
+    },
+    {
+      "link": "https://timesofindia.indiatimes.com/world/china/us-revokes-hong-kong-special-status-as-furor-grows-on-china-law/articleshow/76047227.cms",
+      "title": "Hong Kong's autonomy from China gone: Pompeo",
+      "snippet": "WASHINGTON: US secretary of state Mike Pompeo said he had certified on Wednesday that Hong Kong no longer warrants special treatment under US law as it ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/5F5CAFC3C78D48A1885829227DEEE8F2",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/5F5CAFC3C78D48A1885829227DEEE8F2"
+      ],
+      "date_published": "2020-05-28T02:52:10.000Z",
+      "source": {
+        "id": "times-of-india-timesofindia-indiatimes-com",
+        "domain": "timesofindia.indiatimes.com",
+        "link": "https://timesofindia.indiatimes.com",
+        "name": "Times of India",
+        "logo": "https://api.breakingapi.com/download/logos/times-of-india-timesofindia-indiatimes-com.jpg",
+        "locales": [
+          "en-US",
+          "en-GB",
+          "en-AU",
+          "en-IN",
+          "en-MY",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-CA",
+          "en-IE",
+          "en-UG",
+          "en-BW",
+          "en-GH",
+          "en-IL",
+          "en-LV",
+          "en-NA",
+          "en-NG",
+          "en-ZA",
+          "en-TZ",
+          "en-ET",
+          "en-KE",
+          "en-ZW",
+          "en-ID"
+        ],
+        "description": "The Times of India is an Indian English-language daily newspaper owned by The Times Group.\nIt is the third-largest newspaper in India by circulation and the second-largest selling English-language daily in the world according to Audit Bureau of Circulations."
+      }
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=WJxEAUgdhsA",
+      "title": "China's parliament passes Hong Kong national security law",
+      "date_published": "2020-05-28T08:14:07.000Z",
+      "source": {
+        "domain": "www.youtube.com"
+      }
+    },
+    {
+      "link": "https://www.livemint.com/market/stock-market-news/markets-seen-volatile-investors-cautious-as-us-china-tension-escalates-11590633787078.html",
+      "title": "Markets seen volatile; Investors cautious as US-China tension escalates",
+      "primary_author": "Nasrin Sultana",
+      "authors": [
+        "Nasrin Sultana"
+      ],
+      "snippet": "Indian stock markets are likely to be volatile on Thursday following global cues and expiry of futures and options of May series. SGX Nifty, up 0.4% suggests a ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/50523435FFEF41209F529D39534484AC",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/50523435FFEF41209F529D39534484AC"
+      ],
+      "date_published": "2020-05-28T03:05:52.000Z",
+      "source": {
+        "id": "livemint",
+        "domain": "www.livemint.com",
+        "name": "Livemint",
+        "logo": "https://api.breakingapi.com/download/logos/livemint.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-IN",
+          "en-IL",
+          "en-KE",
+          "en-MY",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-NG",
+          "en-BW",
+          "en-ET",
+          "en-LV",
+          "en-NA",
+          "en-TZ",
+          "en-GH",
+          "en-IE",
+          "en-UG",
+          "en-GB",
+          "en-ZW",
+          "en-ZA",
+          "en-AU",
+          "en-ID",
+          "en-il"
+        ],
+        "description": "Mint is an Indian financial daily newspaper published by HT Media, a Delhi-based media group which is controlled by the KK Birla family and also publishes Hindustan Times. It mostly targets readers who are business executives and policy makers. It has been in circulation since 2007."
+      }
+    },
+    {
+      "link": "https://www.ndtv.com/world-news/hong-kong-no-longer-deserves-special-us-status-china-modeling-it-after-itself-says-mike-pompeo-2236357",
+      "title": "Hong Kong No Longer Deserves Special US Status, China Modeling It After Itself: Mike Pompeo",
+      "snippet": "U.S. Secretary of State Mike Pompeo told Congress on Wednesday that Hong Kong no longer qualifies for its special status under U.S. law, potentially dealing a ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/ADBA7DBEB5E7456AADD1F116BCFFC425",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/ADBA7DBEB5E7456AADD1F116BCFFC425"
+      ],
+      "date_published": "2020-05-28T05:29:03.000Z",
+      "source": {
+        "id": "ndtv-news",
+        "domain": "www.ndtv.com",
+        "name": "NDTV",
+        "logo": "https://api.breakingapi.com/download/logos/ndtv-news.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-IN",
+          "en-AU",
+          "en-KE",
+          "en-MY",
+          "en-NG",
+          "en-PK",
+          "en-PH",
+          "en-ID",
+          "en-BW",
+          "en-ET",
+          "en-GH",
+          "en-NA",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-GB",
+          "en-ZW",
+          "en-NZ",
+          "en-IE",
+          "en-IL",
+          "en-SG"
+        ]
+      }
+    },
+    {
+      "link": "https://www.thehindu.com/news/international/us-strips-hong-kong-of-special-trading-status/article31689879.ece",
+      "title": "U.S. strips Hong Kong of special trading status",
+      "snippet": "Hours before Beijing will hold a key vote on a controversial new security law on Hong Kong, Mr. Pompeo sent a notice to Congress that China was not living up ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/409F5FF7C88F4D1E8F5D313A7694631C",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/409F5FF7C88F4D1E8F5D313A7694631C"
+      ],
+      "date_published": "2020-05-27T17:34:35.000Z",
+      "source": {
+        "id": "the-hindu",
+        "domain": "www.thehindu.com",
+        "name": "Frontline",
+        "logo": "https://api.breakingapi.com/download/logos/the-hindu.png",
+        "locales": [
+          "en-IN",
+          "en-IL",
+          "en-NA",
+          "en-NZ",
+          "en-PK",
+          "en-MY",
+          "en-US",
+          "en-SG",
+          "en-ET",
+          "en-AU",
+          "en-BW",
+          "en-KE",
+          "en-NG",
+          "en-ZW",
+          "en-GB",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-GH",
+          "en-ID",
+          "en-PH",
+          "en-CA",
+          "en-IE"
+        ],
+        "description": "The Hindu is an English-language daily newspaper owned by The Hindu Group, headquartered in Chennai, Tamil Nadu, India. It was started as a weekly in 1878 and became a daily in 1889."
+      }
+    },
+    {
+      "link": "https://www.ndtv.com/world-news/chinese-survey-team-summits-mount-everest-to-remeasure-its-exact-height-2236302",
+      "title": "Chinese Survey Team Summits Mount Everest To Remeasure Its Exact Height",
+      "snippet": "A Chinese survey team on Wednesday reached Mount Everest through Tibet to remeasure the exact height of the world's tallest mountain.",
+      "primary_image_link": "https://api.breakingapi.com/download/images/4CBF754EBC5A428DB1790B84A02A9503",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/4CBF754EBC5A428DB1790B84A02A9503"
+      ],
+      "date_published": "2020-05-28T03:56:51.000Z",
+      "source": {
+        "id": "ndtv-news",
+        "domain": "www.ndtv.com",
+        "name": "NDTV",
+        "logo": "https://api.breakingapi.com/download/logos/ndtv-news.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-IN",
+          "en-AU",
+          "en-KE",
+          "en-MY",
+          "en-NG",
+          "en-PK",
+          "en-PH",
+          "en-ID",
+          "en-BW",
+          "en-ET",
+          "en-GH",
+          "en-NA",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-GB",
+          "en-ZW",
+          "en-NZ",
+          "en-IE",
+          "en-IL",
+          "en-SG"
+        ]
+      }
+    },
+    {
+      "link": "https://www.hindustantimes.com/india-news/india-s-trade-with-south-asia-less-than-4-of-global-trade-china-s-trade-with-region-increases-by-546/story-NqV2EfMvnpjypgV6LFPiwO.html",
+      "title": "India’s trade with South Asia less than 4% of global trade; China’s up by 546%",
+      "snippet": "India's trade with countries in South Asia has remained less than 4% of its global trade since the late 1980s while China has increased its exports to the region ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/FD0A6652568A47C3B073D7ED08D076BD",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/FD0A6652568A47C3B073D7ED08D076BD"
+      ],
+      "date_published": "2020-05-28T08:03:00.000Z",
+      "source": {
+        "id": "hindustan-times-www-hindustantimes-com",
+        "domain": "www.hindustantimes.com",
+        "link": "https://www.hindustantimes.com",
+        "name": "Hindustan Times",
+        "logo": "https://api.breakingapi.com/download/logos/hindustan-times-www-hindustantimes-com.jpg",
+        "locales": [
+          "en-US",
+          "en-GB",
+          "en-AU",
+          "en-CA",
+          "en-IN",
+          "en-KE",
+          "en-PK",
+          "en-SG",
+          "en-GH",
+          "en-MY",
+          "en-BW",
+          "en-ET",
+          "en-LV",
+          "en-NA",
+          "en-NZ",
+          "en-TZ",
+          "en-ZW",
+          "en-ID",
+          "en-ZA",
+          "en-IE",
+          "en-NG",
+          "en-PH",
+          "en-IL",
+          "en-UG"
+        ],
+        "description": "Hindustan Times is an Indian English-language daily newspaper founded in 1924 with roots in the Indian independence movement of the period. Hindustan Times was inaugurated by Mahatma Gandhi and known for supporting the Congress party. The newspaper is owned by Congress Rajya Sabha M.P. Shobhana Bhartia."
+      }
+    },
+    {
+      "link": "https://www.livemint.com/companies/news/mukesh-ambani-s-jio-listing-can-profit-from-us-china-tech-war-11590561952501.html",
+      "title": "Mukesh Ambani's Jio listing can profit from US-China tech war",
+      "snippet": "U.S.-traded Chinese technology firms such as JD.com Inc. and NetEase Inc. are looking for an alternative home closer to the mainland in case tensions between ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/B486AE154600415BBBF9A54A711EFF8C",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/B486AE154600415BBBF9A54A711EFF8C"
+      ],
+      "date_published": "2020-05-27T06:49:09.000Z",
+      "source": {
+        "id": "livemint",
+        "domain": "www.livemint.com",
+        "name": "Livemint",
+        "logo": "https://api.breakingapi.com/download/logos/livemint.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-IN",
+          "en-IL",
+          "en-KE",
+          "en-MY",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-NG",
+          "en-BW",
+          "en-ET",
+          "en-LV",
+          "en-NA",
+          "en-TZ",
+          "en-GH",
+          "en-IE",
+          "en-UG",
+          "en-GB",
+          "en-ZW",
+          "en-ZA",
+          "en-AU",
+          "en-ID",
+          "en-il"
+        ],
+        "description": "Mint is an Indian financial daily newspaper published by HT Media, a Delhi-based media group which is controlled by the KK Birla family and also publishes Hindustan Times. It mostly targets readers who are business executives and policy makers. It has been in circulation since 2007."
+      }
+    },
+    {
+      "link": "https://zeenews.india.com/world/chinas-missing-bat-woman-shi-zhengli-appears-on-state-tv-says-coronavirus-tip-of-the-iceberg-2286568.html",
+      "title": "China`s missing `Bat Woman` Shi Zhengli appears on state TV, says coronavirus `tip of the iceberg`",
+      "primary_author": "Zee News",
+      "authors": [
+        "Zee News"
+      ],
+      "snippet": "Shi Zhengli, a leading Chinese virologist whose mysterious disappearance had triggered speculation about the deadly novel coronavirus emanating from a ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/8EF9CF8E94BD497984D6940B58FE8281",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/8EF9CF8E94BD497984D6940B58FE8281"
+      ],
+      "date_published": "2020-05-28T10:38:22.000Z",
+      "source": {
+        "id": "zee-news",
+        "domain": "zeenews.india.com",
+        "name": "Zee News",
+        "logo": "https://api.breakingapi.com/download/logos/zee-news.png",
+        "locales": [
+          "en-IN",
+          "en-PK",
+          "en-MY",
+          "en-BW",
+          "en-CA",
+          "en-ET",
+          "en-GH",
+          "en-IE",
+          "en-NZ",
+          "en-GB",
+          "en-US",
+          "en-SG",
+          "en-TZ",
+          "en-UG",
+          "en-AU",
+          "en-NG",
+          "en-IL",
+          "en-PH",
+          "en-ID",
+          "en-ZW",
+          "en-KE",
+          "en-ZA",
+          "en-NA",
+          "bn-BD",
+          "mr-IN",
+          "ml-IN",
+          "hi-IN"
+        ],
+        "description": "Zee News is an Indian news channel, owned by Zee Media, a subsidiary of Essel Group, that was launched on 6 July 1999. The channel is owned by Subhash Chandra, who is BJP backed member of the Rajya Sabha."
+      }
+    },
+    {
+      "link": "https://www.livemint.com/opinion/online-views/europe-s-disillusionment-with-the-so-called-people-s-republic-11590591731632.html",
+      "title": "Opinion | Europe's disillusionment with the so-called People's Republic",
+      "snippet": "A paradigm shift is taking place in relations between the European Union (EU) and China. The covid crisis has triggered a new debate within Europe about the ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/CC09C42C648E4F3BA65F4A84236AF9C9",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/CC09C42C648E4F3BA65F4A84236AF9C9"
+      ],
+      "date_published": "2020-05-27T15:28:58.000Z",
+      "source": {
+        "id": "livemint",
+        "domain": "www.livemint.com",
+        "name": "Livemint",
+        "logo": "https://api.breakingapi.com/download/logos/livemint.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-IN",
+          "en-IL",
+          "en-KE",
+          "en-MY",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-NG",
+          "en-BW",
+          "en-ET",
+          "en-LV",
+          "en-NA",
+          "en-TZ",
+          "en-GH",
+          "en-IE",
+          "en-UG",
+          "en-GB",
+          "en-ZW",
+          "en-ZA",
+          "en-AU",
+          "en-ID",
+          "en-il"
+        ],
+        "description": "Mint is an Indian financial daily newspaper published by HT Media, a Delhi-based media group which is controlled by the KK Birla family and also publishes Hindustan Times. It mostly targets readers who are business executives and policy makers. It has been in circulation since 2007."
+      }
+    },
+    {
+      "link": "https://www.ndtv.com/opinion/no-china-will-not-conquer-the-world-by-ramachandra-guha-2235737",
+      "title": "No, China Will Not Conquer The World - by Ramachandra Guha",
+      "snippet": "The Chinese might grow even more prosperous and powerful, and yet China shall never attract the range of friends and admirers in other countries that their ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/B0748B2C8F9B4DE2873223CB8843DC80",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/B0748B2C8F9B4DE2873223CB8843DC80"
+      ],
+      "date_published": "2020-05-27T08:25:25.000Z",
+      "source": {
+        "id": "ndtv-news",
+        "domain": "www.ndtv.com",
+        "name": "NDTV",
+        "logo": "https://api.breakingapi.com/download/logos/ndtv-news.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-IN",
+          "en-AU",
+          "en-KE",
+          "en-MY",
+          "en-NG",
+          "en-PK",
+          "en-PH",
+          "en-ID",
+          "en-BW",
+          "en-ET",
+          "en-GH",
+          "en-NA",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-GB",
+          "en-ZW",
+          "en-NZ",
+          "en-IE",
+          "en-IL",
+          "en-SG"
+        ]
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2020/05/congress-approves-china-sanctions-uighur-crackdown-200528023757313.html",
+      "title": "US Congress approves China sanctions over Uighur crackdown",
+      "snippet": "US House passes bill authorising sanctions against Chinese officials over the mass incarceration of Muslim Uighurs.",
+      "primary_image_link": "https://api.breakingapi.com/download/images/1973B43E9F394EF9B1A136B63B3C8289",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/1973B43E9F394EF9B1A136B63B3C8289"
+      ],
+      "date_published": "2020-05-28T04:47:38.000Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "domain": "www.aljazeera.com",
+        "name": "Al Jazeera English",
+        "logo": "https://api.breakingapi.com/download/logos/al-jazeera-english.png",
+        "locales": [
+          "en-AU",
+          "en-US",
+          "en-CA",
+          "en-GB",
+          "en-IN",
+          "en-NG",
+          "en-ET",
+          "en-BW",
+          "en-GH",
+          "en-IE",
+          "en-IL",
+          "en-KE",
+          "en-LV",
+          "en-MY",
+          "en-NA",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-ZW",
+          "en-ID",
+          "en-ke"
+        ],
+        "description": "Al Jazeera English is a Qatari pay television news channel owned by the Al Jazeera Media Network, headquartered in Doha, Qatar. It is the first English-language news channel to be headquartered in the Middle East. Instead of being run centrally, news management rotates between broadcasting centres in Doha and London."
+      }
+    },
+    {
+      "link": "https://hbr.org/2020/02/how-much-money-does-the-world-owe-china",
+      "title": "How Much Money Does the World Owe China?",
+      "snippet": "An analysis finds 50% of China's loans to developing countries go unreported.",
+      "primary_image_link": "https://api.breakingapi.com/download/images/0E87E75057AC4D90A6705953BA165D9E",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/0E87E75057AC4D90A6705953BA165D9E"
+      ],
+      "date_published": "2020-02-26T08:00:00.000Z",
+      "source": {
+        "id": "harvard-business-review",
+        "domain": "hbr.org",
+        "name": "Harvard Business Review",
+        "logo": "https://api.breakingapi.com/download/logos/harvard-business-review.png",
+        "locales": [
+          "en-US",
+          "en-BW",
+          "en-ET",
+          "en-GH",
+          "en-KE",
+          "en-PK",
+          "en-UG",
+          "en-ZW",
+          "en-MY",
+          "en-NA",
+          "en-NZ",
+          "en-NG",
+          "en-TZ",
+          "en-CA",
+          "en-IL",
+          "en-ZA",
+          "en-SG",
+          "en-IN",
+          "en-GB",
+          "en-PH"
+        ],
+        "description": "Harvard Business Review is a general management magazine published by Harvard Business Publishing, a wholly owned subsidiary of Harvard University. HBR is published six times a year and is headquartered in Brighton, Massachusetts."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2020/05/27/meet-news-break-the-news-app-trending-in-america-founded-by-a-chinese-media-veteran/",
+      "title": "Meet News Break, the news app trending in America founded by a Chinese media veteran",
+      "snippet": "TikTok isn't the only new media app with a Chinese background that's making waves in the U.S. News Break, a news app founded by China's media veteran Jeff ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/5F4DA6E5BDEE4023BF100AA47F5F0B3F",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/5F4DA6E5BDEE4023BF100AA47F5F0B3F"
+      ],
+      "date_published": "2020-05-28T07:10:36.000Z",
+      "source": {
+        "id": "techcrunch",
+        "domain": "techcrunch.com",
+        "name": "TechCrunch",
+        "logo": "https://api.breakingapi.com/download/logos/techcrunch.png",
+        "locales": [
+          "en-AU",
+          "en-US",
+          "en-CA",
+          "en-KE",
+          "en-BW",
+          "en-ET",
+          "en-GH",
+          "en-IN",
+          "en-IE",
+          "en-IL",
+          "en-LV",
+          "en-MY",
+          "en-NA",
+          "en-NZ",
+          "en-NG",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-GB",
+          "en-ZW",
+          "en-ID"
+        ],
+        "description": "TechCrunch is an American online publisher focusing on the tech industry. The company specifically reports on the business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products."
+      }
+    },
+    {
+      "link": "https://asia.nikkei.com/Business/Business-trends/Taiwan-tech-companies-China-exit-fuels-25bn-investment-drive",
+      "title": "Taiwan tech companies' China exit fuels $25bn investment drive",
+      "snippet": "TAIPEI -- The rumble of construction rings out in the northern Taiwanese city of Taoyuan, a sound that has become more common on the self-ruled island.",
+      "primary_image_link": "https://api.breakingapi.com/download/images/F5D98678070D4E39B5561E252C0FF942",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/F5D98678070D4E39B5561E252C0FF942"
+      ],
+      "date_published": "2020-05-27T23:48:00.000Z",
+      "source": {
+        "id": "nikkei-asian-review",
+        "domain": "asia.nikkei.com",
+        "name": "Nikkei Asian Review",
+        "logo": "https://api.breakingapi.com/download/logos/nikkei-asian-review.png",
+        "locales": [
+          "en-US",
+          "en-SG",
+          "en-TZ",
+          "en-BW",
+          "en-ID",
+          "en-IL",
+          "en-KE",
+          "en-NA",
+          "en-NG",
+          "en-PH",
+          "en-CA",
+          "en-PK",
+          "en-GB",
+          "en-ET",
+          "en-MY",
+          "en-NZ",
+          "en-IN",
+          "en-UG",
+          "en-ZW",
+          "en-ZA",
+          "en-AU",
+          "en-IE",
+          "en-GH"
+        ],
+        "description": "The Nikkei, formally known as The Nihon Keizai Shinbun, is Nikkei, Inc.'s flagship publication and the world's largest financial newspaper, with a daily circulation exceeding three million. The Nikkei 225, a stock market index for the Tokyo Stock Exchange, has been calculated by the newspaper since 1950."
+      }
+    }
+  ]
+}
